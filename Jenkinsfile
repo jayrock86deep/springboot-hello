@@ -1,7 +1,7 @@
 pipeline {
     agent any 
     tools {
-        maven "null"
+        maven "1.4.1"
     
     }
     stages {
